@@ -1,0 +1,25 @@
+# Qt and CMake build output
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Qt Creator local settings
+.qtcreator/
+*.user
+*.user.*
+
+# Visual Studio local settings
+.vs/
+*.suo
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
+
+# Windows Explorer files
+Thumbs.db
+Desktop.ini
